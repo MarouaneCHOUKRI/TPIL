@@ -1,0 +1,11 @@
+int*allouevecteur(intdimension,intval)
+{
+  inti;
+  int*vecteur = malloc(dimension*sizeof(int));
+  for(i=0;i<dimension;i++)
+ vecteur[i]=val;returnvecteur;
+} 
+voidliberevecteur(int*vecteur)
+{ 
+  free(vecteur);
+}

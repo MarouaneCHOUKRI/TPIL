@@ -1,0 +1,14 @@
+// FILE: C:/Users/admin/Desktop/I.L/TP5//Dictionnaire.cs
+
+// In this section you can add your own using directives
+    // section -87--2--113--45-3b91b15b:16f24cb09c3:-8000:000000000000086E begin
+    // section -87--2--113--45-3b91b15b:16f24cb09c3:-8000:000000000000086E end
+
+/// <summary>
+    ///  A class that represents ...
+    /// 
+    ///  @see OtherClasses
+    ///  @author your_name_here
+     /// </summary>
+public class Dictionnaire : Journal
+{} /* end class Dictionnaire */

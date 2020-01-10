@@ -1,0 +1,14 @@
+voidaffichevecteur(int*vecteur,intdimension)
+{
+  inti;
+  for(i=0;i<dimension;i++) 
+  printf(”%d”,vecteur[i]);
+  printf(”\n”);
+}
+voidaffichematrice(int**matrice,intlignes,intcolonness)
+{
+  inti;
+  for(i=0;i<lignes;i++)
+  affichevecteur(matrice[i],colonnes);
+  printf(”\n”);
+}
